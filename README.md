@@ -1,5 +1,5 @@
 <h1 align="center"href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hello+There!%F0%9F%91%8B;My+Name+Is+PB!%F0%9F%98%8A;I'm+An+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Hello+There!%F0%9F%91%8B;My+Name+Is+PB!%F0%9F%98%8A;I'm+An+AI+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;And+Also+An+Developer" alt="Typing SVG" />
 </h1>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
